@@ -26,7 +26,7 @@ These are generated in generateMarkdown.js file
 
 
 GitHub URL:
-
+https://preeya15.github.io/GoodReadMeGen/.
 
 Github Repo link:
 https://github.com/Preeya15/GoodReadMeGen.git
