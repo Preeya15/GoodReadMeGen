@@ -2,11 +2,11 @@
 function generateMarkdown(data) {
     console.log(data);
     return `
-  # ${data.project}
-         ${data.email}
+  # ${data.Project}
+         ${data.Email}
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-       ${data.description}
+       ${data.Description}
   ## Table of Contents
   * GitHub Username
   * Project URL
@@ -16,20 +16,18 @@ function generateMarkdown(data) {
   * Tests
   * License
   ## GitHub Username
-      #${data.name}
+      #${data.Name}
   ## Project URl
        ${data.url}
   ## Installation 
-       ${data.commands}
+       ${data.Installation}
   ## License 
-  This project is licensed under the ${data.license}
+  This project is licensed under the ${data.License}
   ## Contributing
-       ${data.contribute}
-  ## Repo Information
-       ${data.repo}
+       ${data.Contribution}
   ## Test
        To run test, run the following command:
-       ${data.tests}
+       ${data.Tests}
   `;
   }
   

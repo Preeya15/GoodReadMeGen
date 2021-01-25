@@ -1,9 +1,9 @@
 
-  # undefined
-         undefined
+  # Good Readme Project
+         priya1648@hotmail.com
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-       undefined
+       short description
   ## Table of Contents
   * GitHub Username
   * Project URL
@@ -13,18 +13,16 @@
   * Tests
   * License
   ## GitHub Username
-      #undefined
+      #Priya
   ## Project URl
-       https://preeya15.github.io/GoodReadMeGen/.
+       https://github.com/Preeya15/GoodReadMeGen.git
   ## Installation 
-       undefined
+       no instructions
   ## License 
-  This project is licensed under the undefined
+  This project is licensed under the MIT
   ## Contributing
-       undefined
-  ## Repo Information
-       undefined
+       nothing
   ## Test
        To run test, run the following command:
-       undefined
+       command
   
