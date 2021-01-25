@@ -24,5 +24,5 @@
        nothing
   ## Test
        To run test, run the following command:
-       command
+       test
   
