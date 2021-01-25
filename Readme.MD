@@ -3,7 +3,7 @@
 Ran index.js in node which presented user with series of questions as per User Story (Video Attached)
 
 VIDEO URL:
-[https://drive.google.com/file/d/15roQeq1FuYvqj0Xh1Q3QuAfU9OlN4eyO/view](url)
+https://drive.google.com/file/d/15roQeq1FuYvqj0Xh1Q3QuAfU9OlN4eyO/view
 
 if Video doesnt work, screenshots of the questions and README file that gets generated after user input:
 
